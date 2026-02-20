@@ -1,7 +1,7 @@
 
 Daily Tea Harvest Yield Predictor
 
-The Daily Tea Harvest Yield Predictor is a practical tool that helps tea farmers estimate their daily harvest based on key factors such as the number of workers, rainfall, and temperature. It uses Python, scikit-learn, and SQLite to manage data, make predictions, and store results in a database. This project demonstrates a full workflow — from data collection and storage to calculation and record-keeping — giving farmers insights to plan resources and track productivity.
+The Daily Tea Harvest Yield Predictor is a practical tool that helps tea farmers estimate their daily harvest based on key factors such as the number of workers, rainfall, and temperature. It uses Python, scikit-learn, and SQLite to manage data, make predictions, and store results in a database. This project demonstrates a full workflow,from data collection and storage to calculation and record-keeping and giving farmers insights to plan resources and track productivity.
 
 Key Features
 
@@ -37,6 +37,7 @@ A model calculates estimated yields based on the input factors.
 Predictions are saved back to the SQLite database for review and analysis.
 
 This project provides a straightforward example of how structured data can support practical farm decisions.
+
 
 
 
